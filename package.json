@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-example",
+  "version": "1.0.0",
+  "description": "Training for Orient\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dat\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Orient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dangtm",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.4.20",
+    "pm2": "^3.4.1",
+    "seneca": "^3.8.4"
+  }
+}
