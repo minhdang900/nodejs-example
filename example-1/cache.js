@@ -8,5 +8,6 @@
 // var module1 = new module1constructor();
 var module1 = require('./module1');
 var module2 = require('./module2');
-new module1()._init();
+// var a = new module1()
+module1._init();
 module2._test();

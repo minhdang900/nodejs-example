@@ -1,3 +1,4 @@
+
 // var ModuleObject1 = function(){
 //   this.attribute1 = null;
 //   this.attribute2 = null;
@@ -19,5 +20,4 @@ class ModuleObject1 {
     this.attribute2 = "world";
   }
 }
-module.exports = ModuleObject1;
-
+module.exports = new ModuleObject1();
