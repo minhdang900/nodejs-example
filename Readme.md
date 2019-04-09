@@ -53,16 +53,16 @@
    - Watch files for modifications
 # Section 4
 9.  Building Web Server
-   - Setting up an HTTP Server
-   - Using SSL to build an HTTPS server
-   - Processing requests on Server
-   - Sending response from Server
-   - Handling header and Status code
-   - Create HTTP Client
-   - Processing client Responses
-   - Processing clinet Requests
-   - Response to Event
-   - Serving a Static Page via the File System
+    - Setting up an HTTP Server
+    - Using SSL to build an HTTPS server
+    - Processing requests on Server
+    - Sending response from Server
+    - Handling header and Status code
+    - Create HTTP Client
+    - Processing client Responses
+    - Processing clinet Requests
+    - Response to Event
+    - Serving a Static Page via the File System
 11. Using Events and Child Processes
     - Creating a Custom Event
     - Adding a Listener for Custom Event
