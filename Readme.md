@@ -1,16 +1,18 @@
 # Agenda
 - [Agenda](#agenda)
-- [Section 1](#section-1)
-- [Section 2](#section-2)
-- [Section 3](#section-3)
-- [Section 4](#section-4)
-- [Section 5](#section-5)
-# Section 1
+- [Section 1 - JavaScript From ES6 to ESNext](#section-1---javascript-from-es6-to-esnext)
+- [Section 2 - NodeJS Starter](#section-2---nodejs-starter)
+- [Section 3 - Networking](#section-3---networking)
+- [Section 4 - File System](#section-4---file-system)
+- [Section 5 - Building Web Server](#section-5---building-web-server)
+- [Section 6 - Building Web Server (Cons)](#section-6---building-web-server-cons)
+# Section 1 - JavaScript From ES6 to ESNext
 1. JavaScript from ES6 to ESNext
    - ES2015
    - ES2016
    - ES2017
    - ES2018
+# Section 2 - NodeJS Starter
 2. Getting Started Node JS
    - Introduction
    - Comonents
@@ -20,7 +22,7 @@
 3. Simple HTTP
    - Introducing Routing
    - Example
-# Section 2
+# Section 3 - Networking 
 4. Networking with Node JS
    - Setting up a server
    - Create connections to your server
@@ -33,6 +35,7 @@
    - Basic Authentication
    - Bearer tokens
    - OAuth
+# Section 4 - File System
 6. Debugging
    - Logging 
    - Error handling
@@ -40,7 +43,6 @@
    - JSON files
    - Enviromental variables
    - Arguments
-# Section 3
 8. Using the File System
    - Retrieve directory structures
    - Navigate directories
@@ -59,7 +61,7 @@
     - Running Shell Command with .exec
     - Executing Shell Files with .execFile
     - Using .fork for Interprocess Communication
-# Section 4
+# Section 5 - Building Web Server
 10. Building Web Server
     - Setting up an HTTP Server
     - Using SSL to build an HTTPS server
@@ -74,7 +76,7 @@
 12. Create Websocket Server 
     - Implementing a Websocket
     - Using Socket.io for Websocket 
-# Section 5
+# Section 6 - Building Web Server (Cons)
 13. Using Webserver Framework
     - Get started with Express JS
     - Routing with Express
