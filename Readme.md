@@ -50,7 +50,17 @@
    - Move and link files
    - Alter file permissions
    - Watch files for modifications
-9.  Building Web Server
+9.  Using Events and Child Processes
+    - Creating a Custom Event
+    - Adding a Listener for Custom Event
+    - Implement a One-Time Events
+    - Reducing callback usign Events
+    - Spawning a Child  with .spawn
+    - Running Shell Command with .exec
+    - Executing Shell Files with .execFile
+    - Using .fork for Interprocess Communication
+# Section 4
+10. Building Web Server
     - Setting up an HTTP Server
     - Using SSL to build an HTTPS server
     - Processing requests on Server
@@ -61,24 +71,14 @@
     - Processing clinet Requests
     - Response to Event
     - Serving a Static Page via the File System
-10. Using Events and Child Processes
-    - Creating a Custom Event
-    - Adding a Listener for Custom Event
-    - Implement a One-Time Events
-    - Reducing callback usign Events
-    - Spawning a Child  with .spawn
-    - Running Shell Command with .exec
-    - Executing Shell Files with .execFile
-    - Using .fork for Interprocess Communication
-# Section 4
 12. Create Websocket Server 
     - Implementing a Websocket
     - Using Socket.io for Websocket 
+# Section 5
 13. Using Webserver Framework
     - Get started with Express JS
     - Routing with Express
     - Designing Restfull API with ExpressJS
-# Section 5
 14. Connecting to Database Store
     - Connecting to Microsoft SQL Server
     - Using PostgreSQL
