@@ -5,15 +5,12 @@
 - [Section 3](#section-3)
 - [Section 4](#section-4)
 - [Section 5](#section-5)
-- [Section 6](#section-6)
-- [Section 7](#section-7)
 # Section 1
 1. JavaScript from ES6 to ESNext
    - ES2015
    - ES2016
    - ES2017
    - ES2018
-# Section 2
 2. Getting Started Node JS
    - Introduction
    - Comonents
@@ -23,7 +20,7 @@
 3. Simple HTTP
    - Introducing Routing
    - Example
-# Section 3
+# Section 2
 4. Networking with Node JS
    - Setting up a server
    - Create connections to your server
@@ -36,7 +33,7 @@
    - Basic Authentication
    - Bearer tokens
    - OAuth
-# Section 4
+# Section 3
 6. Debugging
    - Logging 
    - Error handling
@@ -53,7 +50,6 @@
    - Move and link files
    - Alter file permissions
    - Watch files for modifications
-# Section 5
 9.  Building Web Server
     - Setting up an HTTP Server
     - Using SSL to build an HTTPS server
@@ -65,7 +61,7 @@
     - Processing clinet Requests
     - Response to Event
     - Serving a Static Page via the File System
-11. Using Events and Child Processes
+10. Using Events and Child Processes
     - Creating a Custom Event
     - Adding a Listener for Custom Event
     - Implement a One-Time Events
@@ -74,7 +70,7 @@
     - Running Shell Command with .exec
     - Executing Shell Files with .execFile
     - Using .fork for Interprocess Communication
-# Section 6
+# Section 4
 12. Create Websocket Server 
     - Implementing a Websocket
     - Using Socket.io for Websocket 
@@ -82,7 +78,7 @@
     - Get started with Express JS
     - Routing with Express
     - Designing Restfull API with ExpressJS
-# Section 7
+# Section 5
 14. Connecting to Database Store
     - Connecting to Microsoft SQL Server
     - Using PostgreSQL
