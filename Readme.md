@@ -33,7 +33,6 @@
    - Basic Authentication
    - Bearer tokens
    - OAuth
-# Section 3
 6. Debugging
    - Logging 
    - Error handling
@@ -41,6 +40,7 @@
    - JSON files
    - Enviromental variables
    - Arguments
+# Section 3
 8. Using the File System
    - Retrieve directory structures
    - Navigate directories
