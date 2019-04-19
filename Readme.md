@@ -5,7 +5,7 @@
 - [Section 3 - Networking](#section-3---networking)
 - [Section 4 - File System](#section-4---file-system)
 - [Section 5 - Building Web Server](#section-5---building-web-server)
-- [Section 6 - Building Web Server (Cons)](#section-6---building-web-server-cons)
+- [Section 6 - Building Web Server (Cont)](#section-6---building-web-server-cont)
 # Section 1 - JavaScript From ES6 to ESNext
 1. JavaScript from ES6 to ESNext
    - ES2015
@@ -76,7 +76,7 @@
 12. Create Websocket Server 
     - Implementing a Websocket
     - Using Socket.io for Websocket 
-# Section 6 - Building Web Server (Cons)
+# Section 6 - Building Web Server (Cont)
 13. Using Webserver Framework
     - Get started with Express JS
     - Routing with Express

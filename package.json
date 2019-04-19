@@ -12,6 +12,7 @@
   "author": "dangtm",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
     "mongojs": "^2.6.0",
     "mongoose": "^5.4.20",
     "node-fetch": "^2.3.0",

@@ -8,9 +8,8 @@ const options = {
 };
 
 const req = https.request(options, (res) => {
-  console.log('statusCode:', res.statusCode);
-  console.log('headers:', res.headers);
-
+  console.log(`STATUS: ${res.statusCode}`);
+  console.log(`HEADERS: ${JSON.stringify(res.headers)}`);
   res.on('data', (d) => {
     process.stdout.write(d);
   });
