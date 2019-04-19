@@ -1,3 +1,14 @@
+// ES5 Message queue
+console.log('Hi');
+setTimeout(() => {
+  console.log('cb1');
+}, 5000);
+console.log('Bye');
+// output
+// Hi
+// Bye
+// cb1
+
 // ES6 Message queue
 const networkRequest = () => {
   setTimeout(() => {
@@ -9,10 +20,10 @@ console.log('Hello World');
 networkRequest();
 console.log('The End');
 // output
-
 // Hello World
 // The End
 // Async Code
+
 
 // ES6 Job Queue/ Micro-Task queue
 console.log('Script start');
@@ -24,7 +35,7 @@ new Promise((resolve, reject) => {
 })
   .then(res => console.log(res))
   .catch(err => console.log(err));
-    console.log('Script End');
+console.log('Script End');
 // output
 
 // Script start

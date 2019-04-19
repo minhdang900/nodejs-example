@@ -38,24 +38,24 @@ server.on('request', (req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
   res.writeHead(200, {'content-type': 'text/plain'});
-  res.write('Hello World!');
-  res.end();
+  // res.write('Hello World!');
+  // res.end();
 
   // Routing
-  // if (url === '/about') {
-  //   // write a response
-  //   res.write('<h1>about us page<h1>');
-  //   // end the response
-  //   res.end();
-  // } else if (url === '/contact') {
-  //   // write a response
-  //   res.write('<h1>contact us page<h1>');
-  //   // end the response
-  //   res.end();
-  // } else {
-  //   // write a response
-  //   res.write('<h1>Hello World!<h1>');
-  //   // end the response
-  //   res.end();
-  // }
+  if (url === '/about') {
+    // write a response
+    res.write('<h1>about us page<h1>');
+    // end the response
+    res.end();
+  } else if (url === '/contact') {
+    // write a response
+    res.write('<h1>contact us page<h1>');
+    // end the response
+    res.end();
+  } else {
+    // write a response
+    res.write('<h1>Hello World!<h1>');
+    // end the response
+    res.end();
+  }
 });
