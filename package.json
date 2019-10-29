@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mongojs": "^2.6.0",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "pm2": "^3.4.1",
     "seneca": "^3.8.4"
   }
